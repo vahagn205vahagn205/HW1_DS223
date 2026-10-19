@@ -1,0 +1,7 @@
+year,period_start,period_end,months_on_sale,sales_units,sales_units_cpca_alt,note
+2020,2020-07-01,2020-12-31,6,127651,127651,"Launched July 2020 (retail Jul 24 2020); ~127,651 Jun-Dec 2020 per InsideEVs"
+2021,2021-01-01,2021-12-31,12,395451,395451,"CPCA via InsideEVs (Jan 2022)"
+2022,2022-01-01,2022-12-31,12,404823,554067,"Main: Wikipedia sales table; alt: CPCA wholesale via Gasgoo Dec-2022 ranking"
+2023,2023-01-01,2023-12-31,12,237863,237863,"Wikipedia sales table; CarNewsChina (Aug 2025) gives the same 237,863"
+2024,2024-01-01,2024-12-31,12,261141,261141,"Wikipedia sales table; last full year of first-generation model"
+2025,2025-01-01,2025-12-31,12,424983,424983,"Second-generation model launched Feb 22 2025 - NOT used in the fit (new product)"

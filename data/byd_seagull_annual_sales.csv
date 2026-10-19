@@ -1,0 +1,5 @@
+period,period_start,period_end,sales_units,china_units_wikipedia,source
+2023,2023-04-01,2023-12-31,280217,239270,"CPCA via Gasgoo Dec-2023 ranking (YTD 280,217); CnEVPost"
+2024,2024-01-01,2024-12-31,479294,453593,"Sum of CnEVPost monthly data = 479,294; Gasgoo Dec-2024 YTD 479,294"
+2025,2025-01-01,2025-12-31,529537,310956,"CnEVPost Jan 3 2026: 529,537 (+10.48% YoY)"
+2026 Jan-Sep,2026-01-01,2026-09-30,265901,,"CnEVPost Oct 14 2026: 265,901 in first 9 months (-33.22% YoY)"

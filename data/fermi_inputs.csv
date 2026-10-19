@@ -1,0 +1,6 @@
+input,value,unit,source
+china_bev_sales_2024,7037467,cars,"Inovev (2025), BEV and PHEV sales by segment in Europe and China in 2024"
+a_segment_share_of_china_bev_2024,0.17,share,"Inovev (2025): A segment = 17% of China BEV sales"
+seagull_share_of_a_segment,0.333,share,"Fermi assumption: Seagull was the A00/A0 leader (Dec-2024 CPCA: Seagull 57,087 vs Hongguang Mini EV 44,903 vs Lumin 14,944)"
+first_generation_life_years,3.5,years,"First gen on sale Apr 2023; second generation launch Oct 20 2026 (CnEVPost, Oct 14 2026)"
+export_share_over_life,0.25,share,"Fermi assumption between 2024 (~5%) and 2025 (~41%) non-China shares from Wikipedia country table"
